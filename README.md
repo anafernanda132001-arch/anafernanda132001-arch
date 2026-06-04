@@ -1,6 +1,6 @@
 # Hola, soy Ana Fernanda 👋
 
-Técnica Universitaria en Informática con orientación en análisis de datos.
+Estudiante en la Licenciatura de Gestión de Recursos Humanos con orientación en análisis de datos.
 Apasionada por convertir datos en decisiones claras, actualmente explorando
 el mundo fintech.
 
